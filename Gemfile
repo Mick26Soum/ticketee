@@ -26,6 +26,7 @@ group :test, :development do
   gem 'rspec-rails', '~>2.11'
   gem 'sqlite3', '1.3.7'
   gem 'taps'
+  gem 'devise', '2.1.0.rc'
 end
 
 group :test do
