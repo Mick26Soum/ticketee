@@ -27,6 +27,8 @@ group :test, :development do
   gem 'sqlite3', '1.3.7'
   gem 'taps'
   gem 'devise', '2.1.0.rc'
+  gem 'email_spec', '1.2.1'
+
 end
 
 group :test do
